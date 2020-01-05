@@ -1,0 +1,6 @@
+argparse
+re
+selenium
+requests
+bs4
+urllib
